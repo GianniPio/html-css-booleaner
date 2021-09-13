@@ -32,7 +32,15 @@ h1{
     font-size: 50px;
 }
 
-.under_image{
+.grigio{
+    color: grey;
+}
+
+.azzurro{
+    color: rgb(26, 149, 231);
+}
+
+.small{
     font-size: 12px;
 }
 
@@ -48,13 +56,21 @@ ul{
 table{
     border-collapse: collapse;
     width:100%;
-     height:auto;
-    table-layout:auto;
+    text-align: left;
+}
+
+td{
+    width: 1px;
+    
 }
 
 th{
     color: white;
     background-color: rgb(0, 140, 255);
+}
+
+.celeste{
+    background-color: rgb(0, 255, 255);
 }
 
 
