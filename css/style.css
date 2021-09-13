@@ -75,3 +75,24 @@ th{
 
 
 /* tag footer */
+
+.strong{
+    font-weight: bold;
+}
+
+footer > div{
+    border: 1px soldi black;
+    position: relative;
+    width: 25%px;
+    height: 220px;
+}
+
+div > span{
+    position: absolute;
+    left: 20px;
+    top: 18px;
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+}
+
